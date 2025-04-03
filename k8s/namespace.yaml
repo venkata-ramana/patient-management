@@ -1,0 +1,6 @@
+# Namespace for all microservices and infrastructure
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: microservices

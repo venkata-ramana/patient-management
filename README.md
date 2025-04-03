@@ -1,0 +1,1 @@
+docker-compose -f docker-compose.yml -f docker-compose.patient.yml -f docker-compose.billing.yml up --build

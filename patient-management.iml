@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GENERAL_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="openjdk-24" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+
+    <orderEntry type="module" module-name="patient-service" />
+    <orderEntry type="module" module-name="billing-service" />
+    <orderEntry type="module" module-name="analytics-service" />
+    <orderEntry type="module" module-name="api-gateway" />
+    <orderEntry type="module" module-name="auth-service" />
+  </component>
+</module>
