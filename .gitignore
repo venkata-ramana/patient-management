@@ -1,0 +1,17 @@
+# Ignore Java build files
+target/
+*.class
+
+# Ignore IDE configs
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+/volumes/
+/*/volumes/
+/*/.mvn/
